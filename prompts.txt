@@ -1,0 +1,7 @@
+¿Qué es un prompt y cómo se usa?
+Un prompt es una instrucción o pregunta que se le introduce a la IA para obtener una respuesta o resultado específico. Se usa escribiéndolo directamente en la interfaz del modelo de IA.
+Ejemplo malo:
+"Haz un código de programación."
+Ejemplo bueno:
+"Escribe una función en JavaScript que reciba un arreglo de números y devuelva únicamente los números pares, incluyendo comentarios explicativos."
+
