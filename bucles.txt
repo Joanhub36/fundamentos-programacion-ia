@@ -1,0 +1,5 @@
+¿Qué es un bucle?
+Es una estructura de programación que repite un bloque de instrucciones o código de forma automática mientras se cumpla una condición dada.
+Ejemplo:
+Repetir 10 veces:
+Mostrar "Inicio de partida"
