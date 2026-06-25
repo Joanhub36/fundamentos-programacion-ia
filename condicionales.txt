@@ -1,0 +1,5 @@
+¿Qué es un condicional?
+Es una estructura de control que permite al programa tomar decisiones y ejecutar un bloque de código específico solo si se cumple una condición determinada.
+Ejemplo:
+Si altura >= 1.90
+Mostrar "No puede subir"
