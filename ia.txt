@@ -1,0 +1,2 @@
+¿Cómo la inteligencia artificial puede ayudar a un desarrollador principiante?
+La IA ayuda a los desarrolladores principiantes explicando conceptos complejos de forma sencilla, detectando y corrigiendo errores de sintaxis en el código en tiempo real, generando ejemplos prácticos listos para estudiar, y acelerando el proceso de aprendizaje al actuar como un tutor personalizado disponible las 24 horas.
