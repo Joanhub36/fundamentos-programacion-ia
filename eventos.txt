@@ -1,0 +1,5 @@
+¿Qué es un evento?
+Un evento es una acción o suceso que ocurre en el sistema (generalmente provocado por el usuario) ante el cual el software puede reaccionar ejecutando un código.
+Ejemplo:
+Evento: El usuario hace clic en bandera verde.
+Respuesta: Mostrar mensaje "Inicio".
