@@ -1,0 +1,5 @@
+¿Qué es una variable?
+Una variable es un espacio reservado en la memoria de la computadora que se utiliza para almacenar datos que pueden cambiar durante la ejecución de un programa.
+Ejemplo:
+Nombre: Joan
+Edad: 18
